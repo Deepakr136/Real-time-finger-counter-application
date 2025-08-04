@@ -10,6 +10,9 @@ A real-time finger counting application using computer vision and machine learni
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.29.0-red.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+![img](chemin/vers/image.jpg)
+
+
 ## 🎯 Features
 
 - 🔴 **Real-time detection** - Instant finger counting through your webcam
